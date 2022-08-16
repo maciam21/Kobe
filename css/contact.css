@@ -22,6 +22,8 @@
    
   }
   
+  
+  
   .Kobe1{ 
   
     border: solid white; 
@@ -57,7 +59,8 @@
   body{
   
     background-color: white;
-    background-image: url("https://i.ibb.co/sKNcm5n/Kobe-Drawing.jpg");
+    background-image: url( "https://i.ibb.co/MSSbxpw/Screen-Shot-2022-08-16-at-4-24-46-AM.png" );
+   
     font-family: 'Bebas Neue', cursive;
   
   }
@@ -209,4 +212,3 @@
   
   
   /* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */   
-  
